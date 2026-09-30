@@ -1,0 +1,22 @@
+# STM32CubeIDE / Eclipse
+.metadata/
+.settings/
+*.launch
+*.cproject
+*.project
+
+# Build outputs
+Debug/
+Release/
+build/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.su
+
+# macOS
+.DS_Store
